@@ -9,11 +9,12 @@ description=Automatically generate and label polygons with custom names, and add
 version=1.0
 author=Peter Boateng
 email=peterboateng06@gmail.com
+license=GPLv3
 
 about=Polygon Labeler is a QGIS plugin designed to make labeling polygons effortless and efficient. This tool allows you to automatically generate custom labels for polygons and store them as a new field in the attribute table. Key features include: Automated labeling based on unique identifiers or custom logic. Creation of a new attribute field to store labels for easy data management. Dynamic application of labels directly on the map for enhanced visualization. Whether you're working on zoning maps, vulnerability analyses, or any polygon-based GIS project, Polygon Labeler streamlines your workflow, saving you time and effort.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/Get-rich-dev/Polygon-Labeler.git
+repository=https://github.com/Get-rich-dev/Polygon-Labeler.git
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +26,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/Get-rich-dev/Polygon-Labeler.git
 category=Vector
 icon=icon.png
 # experimental flag
