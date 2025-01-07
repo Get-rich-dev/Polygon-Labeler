@@ -32,5 +32,5 @@ def classFactory(iface):  # pylint: disable=invalid-name
     :type iface: QgsInterface
     """
     #
-    from .Polygon Labeler import PolygonLabeler
+    from .PolygonLabeler import PolygonLabeler
     return PolygonLabeler(iface)
